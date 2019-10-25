@@ -1,0 +1,12 @@
+MSEThresh=0.001	
+rotMinX=-3.1416	
+rotMinY=-3.1416	
+rotMinZ=-3.1416	
+rotWidth=6.2832	
+transMinX=-1	
+transMinY=-1	
+transMinZ=-1	
+transWidth=2	
+trimFraction=0	
+distTransSize=100	
+distTransExpandFactor=2	
