@@ -8,7 +8,7 @@
 %  brain structures."
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-folder='/home/postdoc/nadavd/.sshfs/corwin/ytmp/cloud/nadavd/dropbox/Dropbox/globalICP/code_distribution/bijective_matching';
+folder=[pwd '/'];
 
 addpath(genpath(folder));
 
@@ -19,7 +19,7 @@ sigma=0.05; %noise parameter
 
 seed=1;
 rng(seed);
-warning('ran rng');
+
 
 %% generate random problem
 %generate random rotation

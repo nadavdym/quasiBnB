@@ -9,7 +9,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %change to native path to run 
-folder='/home/postdoc/nadavd/.sshfs/corwin/ytmp/cloud/nadavd/dropbox/Dropbox/globalICP/code_distribution/rigid_cp/';
+folder=[pwd '/'];
 
 
 addpath(genpath([folder '/matlab/']));
