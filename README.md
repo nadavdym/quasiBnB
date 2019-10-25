@@ -1,4 +1,4 @@
-# quasiBnB
+# Quasi Branch and Bound for global rigid alignment
  This repository contains code for globally solving the rigid alignment problems 
 as described in the paper "Linearly Converging Quasi Branch and Bound Algorithms for Global Rigid Registration" by Nadav Dym and Shahar Kovalsky.
 Please cite this paper if you use the code.
